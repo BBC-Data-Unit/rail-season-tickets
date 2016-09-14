@@ -20,6 +20,7 @@ Route distances were calculated using the [Google Places Distance Matrix API](ht
 ## Data
 
 * [Routes, distances, prices, local median wages, and calculations](https://github.com/BBC-Data-Unit/rail-season-tickets/blob/master/Breakdown%20of%20annual%20rail%20passes%20-%20BBC%20News.csv). Also [available as a Google spreadsheet](https://docs.google.com/spreadsheets/d/1mUb-HMoNw10tYmdhmoDotqenrF5Y3e5ItkbWNXYFL_E/pub?output=csv)
+* Office for National Statistics: median earnings by place of work
 * [Google Places Distance Matrix API](https://developers.google.com/maps/documentation/distance-matrix/intro)
 
 ## Interviews and other sources
