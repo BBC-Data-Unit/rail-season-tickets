@@ -30,3 +30,7 @@ Route distances were calculated using the [Google Places Distance Matrix API](ht
 * Commuters Natasha Ellingham and Matt Steel
 * Merseyrail
 * Department for Transport
+
+## How we used the Google Places API
+
+We've written [an explanation of how the Google Places API can be used to find out train journey distances here](https://github.com/BBC-Data-Unit/rail-season-tickets/blob/master/google-places-api.md)
