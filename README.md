@@ -37,4 +37,4 @@ We've written [an explanation of how the Google Places API can be used to find o
 
 ## Related repos
 
-In January 2017 we used similar techniques to report on rail season ticket rises. A [separate repository for that story can be found here](https://github.com/BBC-Data-Unit/rail-season-ticket-rises)
+In January 2017 we used similar techniques to report on rail season ticket rises. A [separate repository for that story can be found here](https://github.com/BBC-Data-Unit/rail-season-ticket-rises). You can [see all fares-related stories under the 'fares' tag](https://github.com/BBC-Data-Unit?utf8=%E2%9C%93&q=fares&type=&language=)
